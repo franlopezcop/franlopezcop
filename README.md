@@ -9,7 +9,7 @@
 📫 How to reach me: franlopcopp@gmail.com
 
 
-Although I am an industrial engineer, I found a passion for programming and trained as a Full Stack Developer.
+In my last year studiyng industrial engineering, I found a passion for programming and trained as a Full Stack Developer.
 I have a great ability to solve problems, learn new things and adapt to change. I am good working on a team.
 I am looking for opportunities in a company that allow me to insert myself in the digital work environment.
 
