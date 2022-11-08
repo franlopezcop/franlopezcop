@@ -4,8 +4,8 @@
 ### Hi there 👋 I´m Francisco Lopez Coppari
 
 🔭 I’ve just finished a Full Stack Web Development course at Digital House
-👯 I’m looking for my fist job
-🌱 I'm always looking to perfect my programming
+👯 I’m looking for my first job
+🌱 I'm always looking to improve my programming
 📫 How to reach me: franlopcopp@gmail.com
 
 
